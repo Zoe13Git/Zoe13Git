@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Nkwain Gaius!
 
 Welcome to my GitHub profile! I’m a **Software Engineer**, **Curriculum Developer**, and an advocate for **EdTech and youth empowerment**. Here’s a bit about me and what I’m passionate about:
 
